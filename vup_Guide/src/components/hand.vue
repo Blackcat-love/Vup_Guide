@@ -20,9 +20,10 @@ const handleSelect = (key: string, keyPath: string[]) => {
     active-text-color="#ffd04b"
     @select="handleSelect"
   >
-    <el-menu-item index="1">Processing Center</el-menu-item>
+    <el-menu-item index="1">文档</el-menu-item>
+    <el-menu-item index="4">链接</el-menu-item>
     <el-sub-menu index="2">
-      <template #title>Workspace</template>
+      <template #title>待写入</template>
       <el-menu-item index="2-1">item one</el-menu-item>
       <el-menu-item index="2-2">item two</el-menu-item>
       <el-menu-item index="2-3">item three</el-menu-item>
@@ -34,7 +35,6 @@ const handleSelect = (key: string, keyPath: string[]) => {
       </el-sub-menu>
     </el-sub-menu>
     <el-menu-item index="3" disabled>Info</el-menu-item>
-    <el-menu-item index="4">Orders</el-menu-item>
   </el-menu>
 </template>
 
