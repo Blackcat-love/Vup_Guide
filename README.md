@@ -3,7 +3,15 @@
 
 ![图片](https://github.com/Blackcat-love/Vup_Guide/blob/main/src/assets/vup_guide.png)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Vue3-blue">
+<div style="display: flex; align-items: center; justify-content: center;">   <img alt="Static Badge" src="https://img.shields.io/badge/Vue3-blue">   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-orange"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/vue--router-bule">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Node-green?style=flat-square">
+    <img alt="Static Badge" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
+</div>
+
+
+
+
 
 
 
@@ -19,9 +27,7 @@
 
 如果你感兴趣可以下方邮箱联系我
 
-![图片](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
- vup-vespera@foxmail.com
+<img alt="Static Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" align=left > vup-vespera@foxmail.com
 
 
 
