@@ -2,11 +2,14 @@
 致力帮助每个想成为Vup的人
 ![图片](https://github.com/Blackcat-love/Vup_Guide/blob/main/src/assets/vup_guide.png)
 
-<div style="display: flex; align-items: center; justify-content: center;">   <img alt="Static Badge" src="https://img.shields.io/badge/Vue3-blue">   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-orange"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/vue--router-bule">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Node-green?style=flat-square">
-    <img alt="Static Badge" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
-</div>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vue3-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/vue--router-bule">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node-green?style=flat-square">
+  <img alt="Static Badge" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
+</p>
+
 
 
 
