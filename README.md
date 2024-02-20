@@ -1,10 +1,9 @@
 # Vup_Guide
 致力帮助每个想成为Vup的人
 
-
+![图片](https://github.com/Blackcat-love/Vup_Guide/blob/main/src/assets/vup_guide.png)
 
 <div style=“显示：flex;align-items：居中;justify-content：中心;”><img alt=“静态徽章” src=“https://img.shields.io/badge/Vue3-blue”><img alt=“静态徽章” src=“https://img.shields.io/badge/JavaScript-orange”>       
-    ! [图片] (https://github.com/Blackcat-love/Vup_Guide/blob/main/src/assets/vup_guide.png)
 <img alt="Static Badge" src="https://img.shields.io/badge/vue--router-bule">
     <img alt="Static Badge" src="https://img.shields.io/badge/Node-green?style=flat-square">
     <img alt="Static Badge" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
