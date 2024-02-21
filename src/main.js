@@ -10,6 +10,7 @@ import 'element-plus/dist/index.css'
 import vuphelp from './components/vuphelp.vue'
 import documentationVue from './components/documentation.vue'
 import body from './components/body.vue'
+import statementVue from './components/statement.vue'
 
 
 
@@ -25,6 +26,7 @@ const router = createRouter({
     { path: '/documentation', component: documentationVue },
     {path: '/vuphelp', component: vuphelp },
     {path: '/vupbody', component: body },
+    {path: '/stateme',component: statementVue}
   ],
 })
 
