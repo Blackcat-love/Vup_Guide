@@ -55,7 +55,8 @@ const goTostatement = () =>{
     </el-sub-menu> -->
     <!-- 待更新  @click="goToVuphelp"  -->
     <el-menu-item index="3" @click="goToVuphelp" disabled>请求帮助</el-menu-item>
-    <el-menu-item index="2" @click="goTostatement">文档</el-menu-item>
+    <el-menu-item index="2" @click="goTostatement">声明</el-menu-item>
+  
   </el-menu>
 
  
