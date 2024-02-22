@@ -10,7 +10,9 @@
   <img alt="Static Badge" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
 </p>
 
-
+<p align="center">
+  非盈利公益化项目
+</p>
 
 
 
@@ -40,6 +42,12 @@
 
 征集文章
 
+文章分类
+
+推广
+
+插件、脚本开发
+
 ## 目前进度
 
 增加了导航栏
@@ -53,6 +61,10 @@
 修改了原来的栏 变为主页VupHelp 和 文档
 
 新增请求帮助栏 待开发
+
+新增声明栏 
+
+
 
 
 
