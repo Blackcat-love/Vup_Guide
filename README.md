@@ -69,8 +69,28 @@
 ## 构建组织架构
 目前想法: 建立讨论区域可以发表相关经验文章，同时建立整合小队，用来筛选修改，将文章整理成指南，不断完善
 
+## 目前进度
+
+切换到src目录使用
+
+```shell
+find . "(" -name "*.html" -or -name "*.js" -or -name "*.css" -or -name "*.vue" ")" -print | xargs wc -l
+```
+
+获取
 
 
+
+   18 ./App.vue
+   70 ./components/body.vue
+ 1681 ./components/documentation.vue
+   75 ./components/hand.vue
+   21 ./components/statement.vue
+   12 ./components/union.vue
+   12 ./components/vuphelp.vue
+   34 ./main.js
+   12 ./stores/counter.js
+ 1935 total
 
 
 
