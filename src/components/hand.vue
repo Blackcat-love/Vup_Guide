@@ -25,6 +25,10 @@ const goToVuphelp = () => {
 const goTostatement = () =>{
   router.push('/stateme')
 }
+
+const goTounion = () =>{
+  router.push('/union')
+}
 </script>
 
 <template>
@@ -38,6 +42,7 @@ const goTostatement = () =>{
     text-color="#fff"
     active-text-color="#ffd04b"
     @select="handleSelect"
+    :ellipsis="false"
   >
   <!-- 左边 -->
     <el-menu-item index="1" @click="goToVupbody">VupHelp</el-menu-item>
@@ -57,13 +62,19 @@ const goTostatement = () =>{
     <!-- 待更新  @click="goToVuphelp"  -->
    
 
-    <el-menu-item index="5" @click="goToVuphelp" disabled>工会</el-menu-item>
+    <el-menu-item index="5" @click="goTounion">工会</el-menu-item>
+    <el-menu-item index="6" disabled >技术</el-menu-item>
+    <el-menu-item index="7" disabled >运营</el-menu-item>
+    <el-menu-item index="8" disabled >中之人</el-menu-item>
 
     <!-- 右边 -->
-
+   <div>
     <el-menu-item index="3" @click="goToVuphelp" disabled >请求帮助</el-menu-item>
     <el-menu-item index="2" @click="goTostatement" >声明</el-menu-item>
-  
+    <el-menu-item index="9" disabled >赞助</el-menu-item>
+    <el-menu-item index="10" disabled >联系</el-menu-item>
+   </div>
+
   </el-menu>
 
  

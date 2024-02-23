@@ -11,6 +11,7 @@ import vuphelp from './components/vuphelp.vue'
 import documentationVue from './components/documentation.vue'
 import body from './components/body.vue'
 import statementVue from './components/statement.vue'
+import unionVue from './components/union.vue'
 
 
 
@@ -26,7 +27,8 @@ const router = createRouter({
     { path: '/documentation', component: documentationVue },
     {path: '/vuphelp', component: vuphelp },
     {path: '/vupbody', component: body },
-    {path: '/stateme',component: statementVue}
+    {path: '/stateme',component: statementVue},
+    {path: '/union',component: unionVue}
   ],
 })
 
