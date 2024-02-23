@@ -39,6 +39,7 @@ const goTostatement = () =>{
     active-text-color="#ffd04b"
     @select="handleSelect"
   >
+  <!-- 左边 -->
     <el-menu-item index="1" @click="goToVupbody">VupHelp</el-menu-item>
     <el-menu-item index="4" @click="goToDocumentation">文档</el-menu-item>
     <!-- <el-sub-menu index="2">
@@ -54,10 +55,14 @@ const goTostatement = () =>{
       </el-sub-menu>
     </el-sub-menu> -->
     <!-- 待更新  @click="goToVuphelp"  -->
-    <el-menu-item index="3" @click="goToVuphelp" disabled>请求帮助</el-menu-item>
+   
 
     <el-menu-item index="5" @click="goToVuphelp" disabled>工会</el-menu-item>
-    <el-menu-item index="2" @click="goTostatement">声明</el-menu-item>
+
+    <!-- 右边 -->
+
+    <el-menu-item index="3" @click="goToVuphelp" disabled >请求帮助</el-menu-item>
+    <el-menu-item index="2" @click="goTostatement" >声明</el-menu-item>
   
   </el-menu>
 
