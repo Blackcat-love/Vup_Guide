@@ -12,6 +12,7 @@ import documentationVue from './components/documentation.vue'
 import body from './components/body.vue'
 import statementVue from './components/statement.vue'
 import unionVue from './components/union.vue'
+import equipmentVue from './components/equipment.vue'
 
 
 
@@ -28,7 +29,8 @@ const router = createRouter({
     {path: '/vuphelp', component: vuphelp },
     {path: '/vupbody', component: body },
     {path: '/stateme',component: statementVue},
-    {path: '/union',component: unionVue}
+    {path: '/union',component: unionVue},
+    {path: '/equipment',component: equipmentVue}
   ],
 })
 

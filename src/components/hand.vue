@@ -29,6 +29,10 @@ const goTostatement = () =>{
 const goTounion = () =>{
   router.push('/union')
 }
+
+const goToequipent = () =>{
+  router.push('/equipment')
+}
 </script>
 
 <template>
@@ -63,18 +67,17 @@ const goTounion = () =>{
    
 
     <el-menu-item index="5" @click="goTounion">工会</el-menu-item>
+    <el-menu-item index="11" @click="goToequipent">设备</el-menu-item>
     <el-menu-item index="6" disabled >技术</el-menu-item>
     <el-menu-item index="7" disabled >运营</el-menu-item>
     <el-menu-item index="8" disabled >中之人</el-menu-item>
+    
 
     <!-- 右边 -->
-   <div>
     <el-menu-item index="3" @click="goToVuphelp" disabled >请求帮助</el-menu-item>
-    <el-menu-item index="2" @click="goTostatement" >声明</el-menu-item>
+    <el-menu-item index="2" @click="goTostatement">声明</el-menu-item>
     <el-menu-item index="9" disabled >赞助</el-menu-item>
     <el-menu-item index="10" disabled >联系</el-menu-item>
-   </div>
-
   </el-menu>
 
  
