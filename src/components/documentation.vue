@@ -1679,4 +1679,5 @@ footer {
 .menu-item-container a.menu-style-btn {
     background-color: #f5f8fa;
     background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0));
-}</style>
+}
+</style>

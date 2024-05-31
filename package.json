@@ -2,6 +2,7 @@
   "name": "vup-guide",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://Blackcat-love.github.io/Vup_Guide",
   "type": "module",
   "scripts": {
     "dev": "vite",

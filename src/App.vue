@@ -9,6 +9,11 @@ import bod from "./components/body.vue"
     <!-- 渲染视图 -->
     <router-view></router-view>
   </div>
+
+  <!-- 看板娘 -->
+  
+
+  
 </template>
 
 <style scoped></style>
